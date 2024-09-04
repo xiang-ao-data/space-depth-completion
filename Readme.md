@@ -1,8 +1,6 @@
 # Code Release for Depth Completion of Spacecraft Sparse Point Clouds
 
-This repository contains the code release for the paper "Depth Completion of Spacecraft Sparse Point Clouds". The code is based on the following paper:
-
-- [Sparse-to-Dense: Depth Completion of Sparse Point Clouds](https://arxiv.org/abs/1907.02392)
+This repository contains the code release for the paper "Spacecraft Depth Completion from Sparse LiDAR Data under Adverse Illumination". 
 
 The code is written in Python and uses PyTorch for training and inference. The code is organized as follows:
 
